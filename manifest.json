@@ -20,8 +20,7 @@
         }
     ],
     "permissions": [
-        "storage",
-        "<all_urls>"
+        "storage"
     ],"web_accessible_resources": [
         "page.js"
     ]
