@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+    "name": "Prevent Tab Closing",
+    "version": "0.0.1",
+    "description": "Prevents tabs from closing unexpectedly. Using dialog 'Are you sure?'",
+    "icons": {
+        "16": "16x16.png",
+        "48": "48x48.png",
+        "128": "128x128.png"
+    },
+    "browser_action": {
+        "default_title": "Prevent tab from closing unexpectedly",
+        "default_popup": "popup.html"
+    },
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "run_at": "document_idle",
+            "js": ["core.js"]
+        }
+    ],
+    "permissions": [
+        "storage",
+        "<all_urls>"
+    ],"web_accessible_resources": [
+        "page.js"
+    ]
+}

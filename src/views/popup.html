@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Prevents tabs from closing unexpectedly</title>
+        <link href="bootstrap.2.2.2.min.css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="text-center">
+            <p class="text-center">Ask before Tab is closed:</p>
+            <button id="preventing-tab-closing-activator" class="btn btn-secondary activator" type="button">Disabled</button>
+        </div>
+        <hr>
+        <div class="text-center">
+            <p class="text-center">Specific URL pattern:</p>
+            <div class="input-group url-pattern">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" id="regex">Regex:</span>
+                </div>
+                <input id="preventing-tab-closing-url-pattern-text" type="text" class="form-control" placeholder="<all_urls>" aria-label="<all_urls>" aria-describedby="regex">
+                <div class="input-group-append">
+                    <button id="preventing-tab-closing-url-pattern" class="btn btn-secondary" type="button">Save</button>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript" src="popup.js"></script>
+    </body>
+</html>

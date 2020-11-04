@@ -1,0 +1,42 @@
+{
+    "name": "prevent-tab-closing",
+    "version": "0.0.1",
+    "description": "Prevents tabs from closing unexpectedly. Using dialog 'Are you sure?'",
+    "main": "src/js/popup.js",
+    "repository": "https://github.com/shoshins/prevent-tab-closing",
+    "license": "MIT",
+    "devDependencies": {
+        "babel-cli": "^6.26.0",
+        "babel-eslint": "^10.1.0",
+        "babel-loader": "^8.1.0",
+        "babel-plugin-transform-object-rest-spread": "^6.26.0",
+        "babel-plugin-transform-react-jsx": "^6.24.1",
+        "babel-preset-env": "^1.6.1",
+        "copy-webpack-plugin": "^6.0.3",
+        "eslint": "^7.5.0",
+        "eslint-plugin-react": "^7.20.5",
+        "rimraf": "^3.0.2",
+        "webpack": "^4.44.0",
+        "webpack-cli": "^3.3.12"
+    },
+    "scripts": {
+        "start": "nodemon --exec yarn build",
+        "prebuild": "rimraf dist",
+        "build": "webpack"
+    },
+    "nodemonConfig": {
+        "ignore": [
+            "dist/",
+            "node_modules"
+        ],
+        "execMap": {
+            "js": "node"
+        },
+        "ext": "js html css",
+        "verbose": true
+    },
+    "dependencies": {
+        "@babel/core": "^7.10.5",
+        "nodemon": "^2.0.4"
+    }
+}
