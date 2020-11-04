@@ -10,7 +10,7 @@ It asks before leave the page / close the tab.
 # How to install
 Google Chrome Extenstions store:
 
-...
+Is going to be publish soon. Under review.
 
 # Status
 
@@ -18,6 +18,5 @@ Google Chrome Extenstions store:
 
 # Screenshots:
 
-<img src="ScreenShot 1.png" width="400">
-<img src="ScreenShot 2.png" width="400">
-<img src="ScreenShot 3.png" width="400">
+<img src="Screenshot 1.png" width="400">
+<img src="Screenshot 2.png" width="400">
