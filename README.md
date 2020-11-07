@@ -10,7 +10,7 @@ It asks before leave the page / close the tab.
 # How to install
 Google Chrome Extenstions store:
 
-Is going to be publish soon. Under review.
+https://chrome.google.com/webstore/detail/prevent-tab-closing/jilanldohabpfcpgihdcadeffoopefbb
 
 # Status
 
