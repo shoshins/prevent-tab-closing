@@ -12,6 +12,11 @@ You may Turn ON / Turn OFF it easily using Enable / Disable Button.
 
 It will work on all pages in any tabs or on some specific URLs that you may specify in the Extension UI.
 
+### Installation
+
+Google Chrome Extension: https://chrome.google.com/webstore/detail/prevent-tab-closing/jilanldohabpfcpgihdcadeffoopefbb
+Source Code: https://github.com/shoshins/prevent-tab-closing
+
 ### Security
 
 And it's absolutely safe. Source code is OpenSource.
