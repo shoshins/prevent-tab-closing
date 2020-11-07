@@ -14,8 +14,9 @@ It will work on all pages in any tabs or on some specific URLs that you may spec
 
 ### Installation
 
-Google Chrome Extension: https://chrome.google.com/webstore/detail/prevent-tab-closing/jilanldohabpfcpgihdcadeffoopefbb
-Source Code: https://github.com/shoshins/prevent-tab-closing
+Google Chrome Extension: [Install](https://chrome.google.com/webstore/detail/prevent-tab-closing/jilanldohabpfcpgihdcadeffoopefbb)
+
+Source Code: [Review](https://github.com/shoshins/prevent-tab-closing)
 
 ### Security
 
