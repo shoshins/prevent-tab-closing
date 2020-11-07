@@ -2,7 +2,7 @@
 
 ### What is this about.
 
-![Prevent Tab Closing](/img/icon.png =100x){:height="100px" width="100px"}.
+![Prevent Tab Closing](/img/icon.png){:height="100px" width="100px"}.
 
 This extension prevents unexpected tabs closing in browser.
 
