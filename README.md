@@ -14,7 +14,7 @@ https://chrome.google.com/webstore/detail/prevent-tab-closing/jilanldohabpfcpgih
 
 # Status
 
-![Node.js CI](https://github.com/shoshins/prevent-tab-closing/workflows/Node.js%20CI/badge.svg)
+![CI Build](https://github.com/shoshins/prevent-tab-closing/workflows/CI%20Build/badge.svg)
 
 # Screenshots:
 
