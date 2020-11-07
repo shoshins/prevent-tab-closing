@@ -2,9 +2,16 @@
 
 ### What is this about.
 
+![Prevent Tab Closing](/img/icon.png){:class="img-responsive"}
+
 This extension prevents unexpected tabs closing in browser.
 
 Browser will ask 'Are you sure?' before leaving the page or closing the tab. Forget about losing data in case of accidental browser closing.
+
+### Screenshots.
+
+![Preventing using popup](/img/screen1.png){:class="img-responsive"}
+![Customizations](/img/screen2.png){:class="img-responsive"}
 
 ### Features.
 
