@@ -12,6 +12,8 @@ Browser will ask 'Are you sure?' before leaving the page or closing the tab. For
 
 ![Preventing using popup](/img/screen1.png){:class="img-responsive"}
 
+![Customizations](/img/screen2.png){:class="img-responsive"}
+
 ### Features.
 
 You may Turn ON / Turn OFF it easily using Enable / Disable Button.
