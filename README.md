@@ -16,6 +16,10 @@ https://chrome.google.com/webstore/detail/prevent-tab-closing/jilanldohabpfcpgih
 
 ![CI Build](https://github.com/shoshins/prevent-tab-closing/workflows/CI%20Build/badge.svg)
 
+# Latest Release
+
+![Release](https://img.shields.io/github/v/release/shoshins/prevent-tab-closing)
+
 # Screenshots:
 
 <img src="Screenshot 1.png" width="400">
