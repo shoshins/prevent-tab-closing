@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Prevent Tab Closing Extension.
 
-You can use the [editor on GitHub](https://github.com/shoshins/prevent-tab-closing/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### What is this about.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This extension prevents unexpected tabs closing in browser.
 
-### Markdown
+Browser will ask 'Are you sure?' before leaving the page or closing the tab. Forget about losing data in case of accidental browser closing.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Features.
 
-```markdown
-Syntax highlighted code block
+You may Turn ON / Turn OFF it easily using Enable / Disable Button.
 
-# Header 1
-## Header 2
-### Header 3
+It will work on all pages in any tabs or on some specific URLs that you may specify in the Extension UI.
 
-- Bulleted
-- List
+### Security
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shoshins/prevent-tab-closing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+And it's absolutely safe. Source code is OpenSource.
