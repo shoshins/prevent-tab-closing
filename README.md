@@ -1,3 +1,12 @@
+# Project status
+| Statistics        |
+| ------------- |
+| ![GitHub release](https://img.shields.io/github/v/release/shoshins/prevent-tab-closing?label=Latest%20Release&sort=semver&style=for-the-badge)      |
+| ![Users](https://img.shields.io/chrome-web-store/users/jilanldohabpfcpgihdcadeffoopefbb?label=ACTIVE%20INSTALLS&style=for-the-badge)      |
+| ![Rating](https://img.shields.io/chrome-web-store/stars/jilanldohabpfcpgihdcadeffoopefbb?label=Chrome%20Rating&style=for-the-badge)      |
+| ![Build Status](https://img.shields.io/github/workflow/status/shoshins/prevent-tab-closing/CI%20Build?label=Build%20Status&style=for-the-badge)      |
+| ![Last Commit](https://img.shields.io/github/last-commit/shoshins/prevent-tab-closing?label=Last%20Commit&style=for-the-badge)      |
+
 # What is it?
 This extension allows to prevent unexpected browser tabs closing.
 
@@ -11,14 +20,6 @@ It asks before leave the page / close the tab.
 Google Chrome Extenstions store:
 
 https://chrome.google.com/webstore/detail/prevent-tab-closing/jilanldohabpfcpgihdcadeffoopefbb
-
-# Status
-
-![CI Build](https://github.com/shoshins/prevent-tab-closing/workflows/CI%20Build/badge.svg)
-
-# Latest Release
-
-![Release](https://img.shields.io/github/v/release/shoshins/prevent-tab-closing)
 
 # Screenshots:
 
