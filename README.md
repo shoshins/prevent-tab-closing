@@ -25,3 +25,15 @@ https://chrome.google.com/webstore/detail/prevent-tab-closing/jilanldohabpfcpgih
 
 <img src="Screenshot 1.png" width="400">
 <img src="Screenshot 2.png" width="400">
+
+# Video Example
+
+https://drive.google.com/file/d/1z94MbSk5zt6HdXDB9YgKLnAK9efxVldg/view
+
+# Regex Examples
+- Example #1. Ask on all websites
+`".*"`
+- Example #2. Ask only on specific website, for example google.com: 
+`".*google.com.*"`
+
+More info about Regex: https://regexr.com
