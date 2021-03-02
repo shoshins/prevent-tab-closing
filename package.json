@@ -1,6 +1,6 @@
 {
     "name": "prevent-tab-closing",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Prevents tabs from closing unexpectedly. Using dialog 'Are you sure?'",
     "main": "src/js/popup.js",
     "repository": "https://github.com/shoshins/prevent-tab-closing",

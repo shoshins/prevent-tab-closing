@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Prevent Tab Closing",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Prevents tabs from closing unexpectedly. Using dialog 'Are you sure?'",
     "icons": {
         "16": "16x16.png",
