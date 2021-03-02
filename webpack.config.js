@@ -15,7 +15,7 @@ module.exports = {
     },
 
     cache: true,
-    devtool: 'cheap-module-source-map',
+    devtool: false,
 
     module: {
         rules: [
